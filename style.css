@@ -1,0 +1,35 @@
+
+.jumbotron {
+    text-align:center;
+    padding:20px;
+    margin-top:100px;
+  }
+  .jumbotron img{
+    width:200px;
+    border-radius:100px;
+  }
+  .smallImg{
+    max-width:150px;
+  }
+  #contact{
+    margin-top:40px;
+    text-align:center;
+    background:lightblue;
+    padding:20px;
+    color: black ;
+  }
+  
+  #contact i {
+    margin-top:10px;
+    font-size:40px;
+  }
+  
+  footer{
+    background:gray;
+    padding:20px;
+    text-align:center;
+    font-weight:bold;
+    color:white;
+    margin-top:30px;
+    
+  }
